@@ -1,0 +1,24 @@
+{
+  "name": "Taskaro",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/TheVoltix/Taskaro.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/TheVoltix/Taskaro/issues"
+  },
+  "homepage": "https://github.com/TheVoltix/Taskaro#readme",
+  "dependencies": {
+    "bootstrap": "^5.3.6",
+    "material-design-icons": "^3.0.1"
+  }
+}
